@@ -1,0 +1,15 @@
+po_number,sku,qty_received,receiving_fc,receipt_date,condition_notes
+PO-7011,SKU-1140,1200,FC-WEST,2026-05-20,Clean receipt
+PO-7012,SKU-1141,800,FC-WEST,2026-05-20,Clean receipt
+PO-7013,SKU-1142,1340,FC-WEST,2026-05-21,Short ship - vendor packing list noted backorder of 160 units
+PO-7020,SKU-2201,2180,FC-EAST,2026-05-21,Short ship - 220 units missing; pallet count off vs BOL
+PO-7021,SKU-2202,600,FC-EAST,2026-05-22,Clean receipt
+PO-7022,SKU-2203,1000,FC-EAST,2026-05-22,Clean receipt
+PO-7023,SKU-2204,450,FC-EAST,2026-05-22,Clean receipt
+PO-7030,SKU-3301,900,FC-CENTRAL,2026-05-23,Clean receipt
+PO-7031,SKU-3302,760,FC-CENTRAL,2026-05-23,Over receipt - 60 extra units; vendor did not flag on BOL
+PO-7032,SKU-3303,1100,FC-CENTRAL,2026-05-23,Clean receipt
+PO-7041,SKU-4402,1800,FC-WEST,2026-05-24,Clean receipt
+PO-7042,SKU-4404,350,FC-WEST,2026-05-24,Clean receipt - received SKU-4404 per PO
+PO-7050,SKU-5501,2002,FC-CENTRAL,2026-05-25,Clean receipt (2 extra units; vendor noted as overage allowance)
+PO-7051,SKU-5502,650,FC-CENTRAL,2026-05-25,Clean receipt

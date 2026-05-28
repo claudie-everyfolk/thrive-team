@@ -1,0 +1,48 @@
+{
+  "incidents": [
+    {
+      "incident_id": "INC-2026-Q2-01",
+      "carrier_id": "CAR-07",
+      "carrier_name": "Harborline Shipping",
+      "date_range": ["2026-05-12", "2026-05-17"],
+      "type": "hub_scanning_system_outage",
+      "affected_hubs": ["JFK regional"],
+      "carrier_disclosed": true,
+      "estimated_shipments_impacted": 1240,
+      "carrier_remediation": "Service credits already issued for affected shipments; tracking-event gaps backfilled within 72 hrs."
+    },
+    {
+      "incident_id": "INC-2026-Q2-02",
+      "carrier_id": "CAR-02",
+      "carrier_name": "Pinecrest Logistics",
+      "date_range": ["2026-04-06", "2026-04-09"],
+      "type": "weather_diversion_winter_storm",
+      "affected_hubs": ["DEN", "SLC"],
+      "carrier_disclosed": true,
+      "estimated_shipments_impacted": 480,
+      "carrier_remediation": "Force majeure invoked per contract §9.1; no service credit owed but carrier ate re-routing costs."
+    },
+    {
+      "incident_id": "INC-2026-Q2-03",
+      "carrier_id": "CAR-04",
+      "carrier_name": "Summit Parcel",
+      "date_range": ["2026-06-15"],
+      "type": "regional_road_closure",
+      "affected_hubs": ["MIA"],
+      "carrier_disclosed": true,
+      "estimated_shipments_impacted": 95,
+      "carrier_remediation": "Resolved next-day; no formal remediation requested."
+    },
+    {
+      "incident_id": "INC-2026-Q2-04",
+      "carrier_id": "CAR-06",
+      "carrier_name": "Cobalt Last Mile",
+      "date_range": ["2026-05-22", "2026-05-23"],
+      "type": "depot_power_outage",
+      "affected_hubs": ["PHX"],
+      "carrier_disclosed": true,
+      "estimated_shipments_impacted": 210,
+      "carrier_remediation": "Service credits pending; carrier has 30 days to issue."
+    }
+  ]
+}

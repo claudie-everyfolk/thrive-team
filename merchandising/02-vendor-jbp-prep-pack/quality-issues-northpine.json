@@ -1,0 +1,91 @@
+{
+  "vendor_id": "V-44182",
+  "vendor_name": "Northpine Provisions",
+  "reporting_window": "2025-08-01 to 2026-05-17",
+  "issues": [
+    {
+      "issue_id": "QI-7710",
+      "opened": "2025-09-14",
+      "closed": "2025-09-29",
+      "sku": "NP-1031",
+      "fc": "FC-West-3",
+      "source": "FC inbound QA",
+      "category": "Seal integrity",
+      "units_affected": 1240,
+      "severity": "Medium",
+      "description": "Lid seals on inbound pallet fail visual; estimated 3-5% of cases impacted. Vendor accepted return.",
+      "vendor_response_days": 4,
+      "resolution": "RA issued; replacement shipment received 9 days later"
+    },
+    {
+      "issue_id": "QI-7884",
+      "opened": "2025-11-02",
+      "closed": "2025-11-21",
+      "sku": "NP-1031",
+      "fc": "FC-East-1",
+      "source": "Customer complaints",
+      "category": "Inconsistent fill weight",
+      "units_affected": 480,
+      "severity": "Medium",
+      "description": "Multiple customer complaints of underfilled jars (declared 8oz, average 7.3oz). Spot-check at FC confirmed.",
+      "vendor_response_days": 6,
+      "resolution": "Vendor adjusted line tolerance; follow-up audit scheduled but not yet completed"
+    },
+    {
+      "issue_id": "QI-8021",
+      "opened": "2026-01-19",
+      "closed": null,
+      "sku": "NP-1031",
+      "fc": "FC-Central-2",
+      "source": "FC inbound QA",
+      "category": "Allergen labeling",
+      "units_affected": 720,
+      "severity": "High",
+      "description": "Updated formulation includes peanut oil. New label does not declare peanut in Contains statement. Quarantined at FC.",
+      "vendor_response_days": 11,
+      "resolution": "Vendor reprinting labels; quarantined inventory still on hold as of report date"
+    },
+    {
+      "issue_id": "QI-8104",
+      "opened": "2026-02-25",
+      "closed": "2026-03-09",
+      "sku": "NP-1020",
+      "fc": "FC-West-3",
+      "source": "Customer complaints",
+      "category": "Off-flavor / shelf life",
+      "units_affected": 310,
+      "severity": "Medium",
+      "description": "Customer reports of bitter / rancid flavor. Lots tested; tahini oxidation suspected. Within stated shelf life.",
+      "vendor_response_days": 3,
+      "resolution": "Vendor agreed to shorten declared shelf life by 60 days and add nitrogen flush. Spec update pending."
+    },
+    {
+      "issue_id": "QI-8217",
+      "opened": "2026-04-11",
+      "closed": null,
+      "sku": "NP-1031",
+      "fc": "FC-West-3",
+      "source": "FC inbound QA",
+      "category": "Foreign material",
+      "units_affected": 96,
+      "severity": "High",
+      "description": "Two jars from inbound pallet contain visible black particulate. Suspected gasket fragment. Pallet held pending vendor RCA.",
+      "vendor_response_days": 9,
+      "resolution": "RCA submitted; vendor cites worn equipment, replacement parts in transit. CAPA not yet closed."
+    },
+    {
+      "issue_id": "QI-8298",
+      "opened": "2026-05-05",
+      "closed": "2026-05-12",
+      "sku": "NP-1001",
+      "fc": "FC-East-1",
+      "source": "Customer complaints",
+      "category": "Packaging — dented cans",
+      "units_affected": 180,
+      "severity": "Low",
+      "description": "Pattern of dented jars in single lot. Pallet handling investigation inconclusive.",
+      "vendor_response_days": 2,
+      "resolution": "Vendor reinforced corner packaging; no recurrence."
+    }
+  ]
+}

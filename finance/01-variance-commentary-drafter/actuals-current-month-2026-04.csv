@@ -1,0 +1,16 @@
+line_item,category,actual_usd
+Subscription Revenue,Revenue,8420000
+One-time Product Revenue,Revenue,1180000
+Other Revenue,Revenue,95000
+Product COGS,COGS,-3210000
+Fulfillment & Shipping,COGS,-1640000
+Payment Processing,COGS,-285000
+Performance Marketing,Marketing,-1840000
+Brand & Creative,Marketing,-420000
+Influencer & Partnerships,Marketing,-310000
+Salaries & Benefits,Opex,-1950000
+Technology & Software,Opex,-385000
+Facilities & Office,Opex,-145000
+Professional Services,Opex,-210000
+Customer Support Ops,Opex,-265000
+Other G&A,Opex,-118000

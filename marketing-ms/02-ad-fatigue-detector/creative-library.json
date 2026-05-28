@@ -1,0 +1,124 @@
+{
+  "variants": [
+    {
+      "variant_id": "CR-2401",
+      "launched": "2026-05-07",
+      "hook_style": "creator-led-question",
+      "format": "UGC",
+      "angle": "problem-solution",
+      "thumbnail_description": "Creator holding up packaged meal, surprised expression, text overlay: 'How is this only $X per meal?'",
+      "creator_handle": "@maya.cooks",
+      "duration_sec": 22
+    },
+    {
+      "variant_id": "CR-2402",
+      "launched": "2026-04-06",
+      "hook_style": "studio-voiceover",
+      "format": "studio",
+      "angle": "aspiration",
+      "thumbnail_description": "Slow-motion produce shots, calm female VO, brand lockup",
+      "creator_handle": null,
+      "duration_sec": 30
+    },
+    {
+      "variant_id": "CR-2403",
+      "launched": "2026-05-09",
+      "hook_style": "creator-led-question",
+      "format": "UGC",
+      "angle": "problem-solution",
+      "thumbnail_description": "Creator unboxing on kitchen counter, hand-held, voiceover: 'I tried to meal-plan for a month and this is what happened'",
+      "creator_handle": "@dadgetsfit",
+      "duration_sec": 28
+    },
+    {
+      "variant_id": "CR-2404",
+      "launched": "2026-04-10",
+      "hook_style": "before-after",
+      "format": "motion",
+      "angle": "social-proof",
+      "thumbnail_description": "Animated stats: '40,000+ members' with testimonial chyrons",
+      "creator_handle": null,
+      "duration_sec": 25
+    },
+    {
+      "variant_id": "CR-2405",
+      "launched": "2026-04-20",
+      "hook_style": "pattern-interrupt",
+      "format": "UGC",
+      "angle": "value",
+      "thumbnail_description": "Creator pulling items out of a single box, talking price-per-serving",
+      "creator_handle": "@frugalflora",
+      "duration_sec": 19
+    },
+    {
+      "variant_id": "CR-2406",
+      "launched": "2026-03-27",
+      "hook_style": "studio-voiceover",
+      "format": "studio",
+      "angle": "aspiration",
+      "thumbnail_description": "Glossy lifestyle shots, family dinner, brand lockup at end",
+      "creator_handle": null,
+      "duration_sec": 30
+    },
+    {
+      "variant_id": "CR-2407",
+      "launched": "2026-05-04",
+      "hook_style": "creator-led-question",
+      "format": "UGC",
+      "angle": "problem-solution",
+      "thumbnail_description": "Creator on couch, kid in background, text: 'I gave up on cooking until I found this'",
+      "creator_handle": "@busymom.fitness",
+      "duration_sec": 24
+    },
+    {
+      "variant_id": "CR-2408",
+      "launched": "2026-04-27",
+      "hook_style": "stat-shock",
+      "format": "static",
+      "angle": "value",
+      "thumbnail_description": "Bold text card: 'Members save 6 hours a week.' Single product photo.",
+      "creator_handle": null,
+      "duration_sec": 0
+    },
+    {
+      "variant_id": "CR-2409",
+      "launched": "2026-03-31",
+      "hook_style": "before-after",
+      "format": "motion",
+      "angle": "social-proof",
+      "thumbnail_description": "Quick-cut testimonial montage, on-screen quotes from 5 members",
+      "creator_handle": null,
+      "duration_sec": 28
+    },
+    {
+      "variant_id": "CR-2410",
+      "launched": "2026-04-30",
+      "hook_style": "creator-led-storytime",
+      "format": "UGC",
+      "angle": "aspiration",
+      "thumbnail_description": "Creator narrating a week-in-the-life, multiple deliveries, calendar overlay",
+      "creator_handle": "@notyourchef",
+      "duration_sec": 35
+    },
+    {
+      "variant_id": "CR-2411",
+      "launched": "2026-05-06",
+      "hook_style": "pattern-interrupt",
+      "format": "UGC",
+      "angle": "value",
+      "thumbnail_description": "Creator splitting a single box across multiple meals, price math overlay",
+      "creator_handle": "@oneincomemom",
+      "duration_sec": 21
+    },
+    {
+      "variant_id": "CR-2412",
+      "launched": "2026-05-11",
+      "hook_style": "stat-shock",
+      "format": "static",
+      "angle": "social-proof",
+      "thumbnail_description": "Text card: '93% of members re-order in the first month.' Logo bar.",
+      "creator_handle": null,
+      "duration_sec": 0
+    }
+  ]
+}

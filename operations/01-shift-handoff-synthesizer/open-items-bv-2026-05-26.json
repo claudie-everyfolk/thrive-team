@@ -1,0 +1,77 @@
+{
+  "safety_incidents": [
+    {
+      "id": "SAF-2451",
+      "opened_at": "2026-05-26T09:14:00",
+      "line": "PACK-02",
+      "description": "Associate slipped near conveyor belt — no injury, area cordoned, floor cleaned",
+      "status": "open_pending_review",
+      "owner": "M. Alvarez (Safety Lead)",
+      "due_by": "2026-05-26T18:00:00"
+    },
+    {
+      "id": "SAF-2447",
+      "opened_at": "2026-05-25T20:30:00",
+      "line": "PICK-06",
+      "description": "Damaged pallet edge flagged by night crew — temporary tape; replacement pallet not yet swapped",
+      "status": "open_carried",
+      "owner": "J. Park (Maintenance)",
+      "due_by": "2026-05-26T22:00:00"
+    }
+  ],
+  "pending_audits": [
+    {
+      "id": "AUD-0881",
+      "type": "cycle_count",
+      "zone": "B-14",
+      "opened_at": "2026-05-26T07:00:00",
+      "owner": "R. Tran",
+      "due_by": "2026-05-26T20:00:00",
+      "status": "not_started"
+    },
+    {
+      "id": "AUD-0879",
+      "type": "outbound_quality_sample",
+      "zone": "Pack staging",
+      "opened_at": "2026-05-25T15:00:00",
+      "owner": "K. Singh",
+      "due_by": "2026-05-26T17:30:00",
+      "status": "in_progress"
+    },
+    {
+      "id": "AUD-0883",
+      "type": "putaway_accuracy",
+      "zone": "D-02",
+      "opened_at": "2026-05-26T11:00:00",
+      "owner": "R. Tran",
+      "due_by": "2026-05-27T11:00:00",
+      "status": "not_started"
+    }
+  ],
+  "associate_feedback": [
+    {
+      "id": "FB-3120",
+      "submitted_at": "2026-05-26T10:42:00",
+      "submitted_by": "Pack associate (anon)",
+      "topic": "Tape dispensers on PACK-04 keep jamming — slowing pace",
+      "owner": "FC Lead",
+      "due_by": "2026-05-27T15:00:00"
+    },
+    {
+      "id": "FB-3115",
+      "submitted_at": "2026-05-24T13:00:00",
+      "submitted_by": "Pick associate (named: D. Okafor)",
+      "topic": "Request to rotate PICK-06 scanner — drops scans intermittently",
+      "owner": "IT support",
+      "due_by": "2026-05-26T15:00:00"
+    },
+    {
+      "id": "FB-3122",
+      "submitted_at": "2026-05-26T12:15:00",
+      "submitted_by": "Night-shift associate via day handoff",
+      "topic": "Break-room microwave broken (low priority)",
+      "owner": "Facilities",
+      "due_by": "2026-05-30T17:00:00"
+    }
+  ]
+}

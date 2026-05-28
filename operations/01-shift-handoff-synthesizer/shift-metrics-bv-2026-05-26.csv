@@ -1,0 +1,13 @@
+line_id,function,shift_uph,goal_uph,pct_to_goal,seven_day_avg_uph,behind_schedule,notes
+PACK-01,pack,142,140,101,138,FALSE,
+PACK-02,pack,118,140,84,135,TRUE,jam at 11:20 cost ~30 min
+PACK-03,pack,151,140,108,145,FALSE,
+PACK-04,pack,97,140,69,132,TRUE,short-staffed; 2 callouts
+PACK-05,pack,139,140,99,141,FALSE,
+PICK-01,pick,206,200,103,198,FALSE,
+PICK-02,pick,189,200,95,201,FALSE,
+PICK-03,pick,164,200,82,195,TRUE,zone reslot mid-shift
+PICK-04,pick,178,200,89,192,FALSE,
+PICK-05,pick,212,200,106,205,FALSE,
+PICK-06,pick,144,200,72,188,TRUE,scanner gun batch failing; see news doc
+PACK-06,pack,131,140,94,137,FALSE,new associate ramping

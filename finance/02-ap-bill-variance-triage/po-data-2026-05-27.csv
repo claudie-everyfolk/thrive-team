@@ -1,0 +1,16 @@
+po_number,po_date,vendor,sku,qty_ordered,unit_price_agreed,freight_terms,category_manager
+PO-7011,2026-05-10,Atlas Foods,SKU-1140,1200,4.85,FOB Origin (buyer pays),M. Chen
+PO-7012,2026-05-10,Atlas Foods,SKU-1141,800,5.95,FOB Origin (buyer pays),M. Chen
+PO-7013,2026-05-11,Atlas Foods,SKU-1142,1500,3.40,FOB Origin (buyer pays),M. Chen
+PO-7020,2026-05-12,Brightline Goods,SKU-2201,2400,7.50,Prepaid by vendor,R. Okafor
+PO-7021,2026-05-12,Brightline Goods,SKU-2202,600,11.80,Prepaid by vendor,R. Okafor
+PO-7022,2026-05-13,Brightline Goods,SKU-2203,1000,5.25,Prepaid by vendor,R. Okafor
+PO-7023,2026-05-13,Brightline Goods,SKU-2204,450,17.50,Prepaid by vendor,R. Okafor
+PO-7030,2026-05-14,Cascade Naturals,SKU-3301,900,9.80,FOB Origin (buyer pays),S. Patel
+PO-7031,2026-05-14,Cascade Naturals,SKU-3302,700,14.20,FOB Origin (buyer pays),S. Patel
+PO-7032,2026-05-15,Cascade Naturals,SKU-3303,1100,6.50,Prepaid by vendor,S. Patel
+PO-7040,2026-05-16,Delta Provisions,SKU-4401,500,22.00,FOB Destination,J. Nguyen
+PO-7041,2026-05-16,Delta Provisions,SKU-4402,1800,4.10,FOB Destination,J. Nguyen
+PO-7042,2026-05-17,Delta Provisions,SKU-4404,350,28.50,FOB Destination,J. Nguyen
+PO-7050,2026-05-18,Evergreen Mills,SKU-5501,2000,3.95,FOB Origin (buyer pays),M. Chen
+PO-7051,2026-05-18,Evergreen Mills,SKU-5502,650,8.70,FOB Origin (buyer pays),M. Chen

@@ -1,0 +1,61 @@
+month,sku,description,units_sold,net_sales_usd,units_sold_prior_year,net_sales_prior_year_usd
+2025-06,NP-1001,Smoked Tomato Pasta Sauce,8420,34608,7980,32798
+2025-06,NP-1002,Roasted Garlic Pasta Sauce,7110,29222,6840,28110
+2025-06,NP-1015,Honey Mustard Vinaigrette,3920,11703,3640,10867
+2025-06,NP-1020,Tahini Caesar Dressing,2640,9551,2210,7994
+2025-06,NP-1031,Hot Honey Chili Crisp,0,0,0,0
+2025-07,NP-1001,Smoked Tomato Pasta Sauce,8980,36909,8120,33375
+2025-07,NP-1002,Roasted Garlic Pasta Sauce,7320,30087,6610,27170
+2025-07,NP-1015,Honey Mustard Vinaigrette,4110,12268,3520,10506
+2025-07,NP-1020,Tahini Caesar Dressing,2810,10164,2330,8430
+2025-07,NP-1031,Hot Honey Chili Crisp,0,0,0,0
+2025-08,NP-1001,Smoked Tomato Pasta Sauce,9210,37853,8240,33866
+2025-08,NP-1002,Roasted Garlic Pasta Sauce,7490,30784,6700,27537
+2025-08,NP-1015,Honey Mustard Vinaigrette,4380,13074,3580,10685
+2025-08,NP-1020,Tahini Caesar Dressing,3010,10886,2410,8718
+2025-08,NP-1031,Hot Honey Chili Crisp,5240,26190,0,0
+2025-09,NP-1001,Smoked Tomato Pasta Sauce,9870,40562,8410,34565
+2025-09,NP-1002,Roasted Garlic Pasta Sauce,7860,32299,6820,28028
+2025-09,NP-1015,Honey Mustard Vinaigrette,4220,12597,3690,11015
+2025-09,NP-1020,Tahini Caesar Dressing,3160,11428,2480,8970
+2025-09,NP-1031,Hot Honey Chili Crisp,6890,34431,0,0
+2025-10,NP-1001,Smoked Tomato Pasta Sauce,10240,42086,8590,35304
+2025-10,NP-1002,Roasted Garlic Pasta Sauce,8030,33003,6940,28523
+2025-10,NP-1015,Honey Mustard Vinaigrette,4080,12179,3710,11075
+2025-10,NP-1020,Tahini Caesar Dressing,3340,12080,2570,9295
+2025-10,NP-1031,Hot Honey Chili Crisp,7820,39074,0,0
+2025-11,NP-1001,Smoked Tomato Pasta Sauce,11100,45624,9070,37278
+2025-11,NP-1002,Roasted Garlic Pasta Sauce,8540,35099,7220,29674
+2025-11,NP-1015,Honey Mustard Vinaigrette,3960,11820,3680,10987
+2025-11,NP-1020,Tahini Caesar Dressing,3490,12624,2680,9692
+2025-11,NP-1031,Hot Honey Chili Crisp,8210,41028,0,0
+2025-12,NP-1001,Smoked Tomato Pasta Sauce,11890,48867,9510,39086
+2025-12,NP-1002,Roasted Garlic Pasta Sauce,9070,37268,7560,31064
+2025-12,NP-1015,Honey Mustard Vinaigrette,3710,11075,3490,10417
+2025-12,NP-1020,Tahini Caesar Dressing,3620,13093,2740,9908
+2025-12,NP-1031,Hot Honey Chili Crisp,5180,25884,0,0
+2026-01,NP-1001,Smoked Tomato Pasta Sauce,8990,36949,8930,36702
+2026-01,NP-1002,Roasted Garlic Pasta Sauce,7110,29222,7140,29345
+2026-01,NP-1015,Honey Mustard Vinaigrette,4690,14002,3540,10566
+2026-01,NP-1020,Tahini Caesar Dressing,3010,10886,2530,9149
+2026-01,NP-1031,Hot Honey Chili Crisp,4120,20594,0,0
+2026-02,NP-1001,Smoked Tomato Pasta Sauce,8240,33866,8540,35099
+2026-02,NP-1002,Roasted Garlic Pasta Sauce,6610,27170,6820,28028
+2026-02,NP-1015,Honey Mustard Vinaigrette,4280,12777,3490,10417
+2026-02,NP-1020,Tahini Caesar Dressing,2890,10453,2410,8718
+2026-02,NP-1031,Hot Honey Chili Crisp,3110,15543,0,0
+2026-03,NP-1001,Smoked Tomato Pasta Sauce,8410,34565,8690,35716
+2026-03,NP-1002,Roasted Garlic Pasta Sauce,6740,27710,6940,28523
+2026-03,NP-1015,Honey Mustard Vinaigrette,4540,13549,3580,10685
+2026-03,NP-1020,Tahini Caesar Dressing,3010,10886,2490,9006
+2026-03,NP-1031,Hot Honey Chili Crisp,2640,13193,0,0
+2026-04,NP-1001,Smoked Tomato Pasta Sauce,8730,35878,8820,36249
+2026-04,NP-1002,Roasted Garlic Pasta Sauce,6890,28323,7010,28811
+2026-04,NP-1015,Honey Mustard Vinaigrette,4710,14056,3650,10897
+2026-04,NP-1020,Tahini Caesar Dressing,3120,11286,2540,9185
+2026-04,NP-1031,Hot Honey Chili Crisp,2940,14694,0,0
+2026-05,NP-1001,Smoked Tomato Pasta Sauce,9010,37031,9140,37565
+2026-05,NP-1002,Roasted Garlic Pasta Sauce,7060,29017,7180,29510
+2026-05,NP-1015,Honey Mustard Vinaigrette,4820,14383,3740,11164
+2026-05,NP-1020,Tahini Caesar Dressing,3210,11611,2610,9438
+2026-05,NP-1031,Hot Honey Chili Crisp,3110,15543,0,0

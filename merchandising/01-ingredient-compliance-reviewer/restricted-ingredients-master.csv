@@ -1,0 +1,26 @@
+ingredient,status,category,reason,docs_required,last_reviewed
+high-fructose corn syrup,Unacceptable,Sweetener,Refined sweetener inconsistent with brand standard,,2025-11-02
+sucralose,Unacceptable,Sweetener,Artificial sweetener,,2025-11-02
+aspartame,Unacceptable,Sweetener,Artificial sweetener,,2025-11-02
+acesulfame potassium,Unacceptable,Sweetener,Artificial sweetener,,2025-11-02
+saccharin,Unacceptable,Sweetener,Artificial sweetener,,2025-11-02
+brown rice syrup,Restricted,Sweetener,Inorganic arsenic risk,Third-party arsenic test <100 ppb within 12 months,2026-01-15
+caramel color,Restricted,Color,Class III/IV contain 4-MeI,Spec sheet confirming Class I (plain caramel),2026-01-15
+Red 40,Unacceptable,Color,Synthetic FD&C dye,,2025-09-30
+Yellow 5,Unacceptable,Color,Synthetic FD&C dye,,2025-09-30
+Yellow 6,Unacceptable,Color,Synthetic FD&C dye,,2025-09-30
+Blue 1,Unacceptable,Color,Synthetic FD&C dye,,2025-09-30
+Blue 2,Unacceptable,Color,Synthetic FD&C dye,,2025-09-30
+Green 3,Unacceptable,Color,Synthetic FD&C dye,,2025-09-30
+BHA,Unacceptable,Preservative,Synthetic antioxidant under review by IARC,,2025-09-30
+BHT,Unacceptable,Preservative,Synthetic antioxidant,,2025-09-30
+TBHQ,Unacceptable,Preservative,Synthetic antioxidant,,2025-09-30
+propyl gallate,Unacceptable,Preservative,Synthetic antioxidant,,2025-09-30
+potassium sorbate,Restricted,Preservative,Permitted only in refrigerated / high-moisture (aw>0.85),Product spec confirming aw >0.85 or refrigerated distribution,2026-01-15
+sodium benzoate,Restricted,Preservative,Same as potassium sorbate,Product spec confirming aw >0.85 or refrigerated distribution,2026-01-15
+natural flavor,Restricted,Flavor,Solvent and allergen transparency,Sourcing letter: no synthetic solvents; allergen disclosure,2026-01-15
+artificial flavor,Unacceptable,Flavor,Brand standard prohibits artificial flavors,,2025-11-02
+mono- and diglycerides,Restricted,Emulsifier,Source and hydrogenation transparency,Source declaration (palm/soy/other) and non-hydrogenated attestation,2026-01-15
+polysorbate 60,Restricted,Emulsifier,FSQA review required,FSQA case review,2026-01-15
+polysorbate 80,Restricted,Emulsifier,FSQA review required,FSQA case review,2026-01-15
+carrageenan,Restricted,Texturizer,Permitted in limited categories,FSQA case review for beverages and dairy alternatives,2026-01-15

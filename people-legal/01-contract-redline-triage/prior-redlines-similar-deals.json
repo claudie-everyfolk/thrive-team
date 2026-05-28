@@ -1,0 +1,100 @@
+{
+  "description": "Recent redlines on similar SaaS analytics / data tooling agreements, last 6 months. Use as reference for tone and specific language we've successfully negotiated.",
+  "exported_from": "DocuSign IAM Agreement Desk",
+  "exported_on": "2026-06-01",
+  "deals": [
+    {
+      "deal_id": "LGL-2025-1142",
+      "vendor": "Spinpoint BI",
+      "category": "SaaS analytics",
+      "acv_usd": 95000,
+      "closed": "2025-12-18",
+      "redlines": [
+        {
+          "section": "Term and Renewal",
+          "original_position": "36-month initial term, auto-renew 24 months",
+          "our_redline": "Reduced initial term to 24 months. Auto-renew shortened to 12 months. Notice window pulled in from 90 to 60 days.",
+          "outcome": "Accepted in full"
+        },
+        {
+          "section": "Customer Data",
+          "original_position": "Vendor may use aggregated and de-identified Customer Data for product improvement and benchmarking",
+          "our_redline": "Struck entire sentence. Replaced with: 'Provider shall use Customer Data solely to provide the Service to Customer and for no other purpose. Provider shall not use Customer Data, in any form, to train machine learning models or for benchmarking against other customers.'",
+          "outcome": "Accepted with minor wording tweak; vendor added narrow exception for security and abuse detection, which we accepted."
+        },
+        {
+          "section": "Limitation of Liability",
+          "original_position": "Cap = 3 months fees",
+          "our_redline": "Increased to 12 months fees. Added super-cap of 2x annual fees for data breach and confidentiality breach.",
+          "outcome": "Landed at 12 months general, 24 months super-cap for data breach."
+        }
+      ]
+    },
+    {
+      "deal_id": "LGL-2026-0203",
+      "vendor": "Loomstack Data",
+      "category": "Data pipeline SaaS",
+      "acv_usd": 142000,
+      "closed": "2026-02-04",
+      "redlines": [
+        {
+          "section": "IP / Feedback",
+          "original_position": "Customer assigns all Feedback to Provider",
+          "our_redline": "Replaced assignment with non-exclusive, royalty-free license to use Feedback. No assignment of IP rights.",
+          "outcome": "Accepted"
+        },
+        {
+          "section": "General / Modifications",
+          "original_position": "Provider may update terms via website posting",
+          "our_redline": "Struck entirely. Replaced with: 'No modification of this Agreement shall be effective unless in writing and signed by an authorized representative of both parties.'",
+          "outcome": "Accepted without comment — vendor never pushes back on this one"
+        },
+        {
+          "section": "Governing Law",
+          "original_position": "California, JAMS arbitration in San Francisco",
+          "our_redline": "Accepted as in policy.",
+          "outcome": "No change needed"
+        }
+      ]
+    },
+    {
+      "deal_id": "LGL-2026-0341",
+      "vendor": "Quillback Analytics",
+      "category": "SaaS analytics",
+      "acv_usd": 68000,
+      "closed": "2026-03-22",
+      "redlines": [
+        {
+          "section": "Customer Data — breach notification",
+          "original_position": "Notification within 72 hours of confirmation",
+          "our_redline": "Tightened to 48 hours of discovery (not confirmation), with interim updates every 24 hours until resolved.",
+          "outcome": "Landed at 48 hours of discovery, interim updates every 48 hours"
+        },
+        {
+          "section": "Termination — refunds",
+          "original_position": "Pre-paid fees non-refundable under any circumstances",
+          "our_redline": "Added: 'In the event of termination by Customer for Provider's uncured material breach, Provider shall refund Customer a pro-rata portion of any pre-paid fees for the unused remainder of the term.'",
+          "outcome": "Accepted"
+        },
+        {
+          "section": "Indemnification — Customer indemnity",
+          "original_position": "Customer indemnifies for any and all claims arising from use of Service or Customer Data",
+          "our_redline": "Narrowed to: claims arising from Customer's gross negligence, willful misconduct, or breach of the license restrictions in Section 2.",
+          "outcome": "Accepted"
+        },
+        {
+          "section": "MFN",
+          "original_position": "Vendor reps it gives Customer most-favored-customer pricing",
+          "our_redline": "Struck entirely — these reps are unenforceable and create renewal noise.",
+          "outcome": "Accepted"
+        }
+      ]
+    }
+  ],
+  "general_notes": [
+    "Vendors in this category almost always concede the unilateral-modification clause when pushed once. Don't soften the redline.",
+    "Customer Data / training carve-outs are getting harder in 2026 — vendors are protecting their AI roadmaps. Lead with the strongest position and have a fallback ready (e.g., aggregated data with our written opt-in only).",
+    "DPAs must be attached at execution for anything touching PII. 'Available upon request' has bitten us twice this year on procurement timelines.",
+    "When the vendor's first response is 'we never change this clause for anyone,' that's negotiable 80% of the time. Ask for the exception process and escalate to their legal lead."
+  ]
+}

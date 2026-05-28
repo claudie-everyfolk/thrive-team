@@ -1,0 +1,16 @@
+exception_id,carrier_id,lane,service_level,exception_type,dwell_hours,resolution_status,opened_date
+EXC-9001,CAR-02,LAX-DEN,Ground,delayed_in_transit,38,unresolved,2026-04-12
+EXC-9002,CAR-02,LAX-DEN,Ground,delayed_in_transit,52,unresolved,2026-04-19
+EXC-9003,CAR-02,LAX-DEN,Ground,delayed_in_transit,44,resolved,2026-05-03
+EXC-9004,CAR-02,LAX-DEN,Express,misrouted,29,unresolved,2026-05-21
+EXC-9005,CAR-02,SEA-CHI,Ground,lost_in_transit,168,unresolved,2026-06-08
+EXC-9006,CAR-04,ATL-NYC,Ground,damaged,12,resolved,2026-04-14
+EXC-9007,CAR-04,ATL-NYC,Ground,damaged,18,resolved,2026-04-28
+EXC-9008,CAR-04,ATL-NYC,Ground,damaged,14,unresolved,2026-05-09
+EXC-9009,CAR-04,ATL-NYC,Ground,damaged,21,unresolved,2026-05-30
+EXC-9010,CAR-04,MIA-DAL,Express,delayed_in_transit,30,resolved,2026-06-02
+EXC-9011,CAR-06,PHX-LAS,Ground,delayed_in_transit,24,resolved,2026-04-22
+EXC-9012,CAR-06,PHX-LAS,Ground,address_correction,4,resolved,2026-05-10
+EXC-9013,CAR-07,JFK-BOS,Express,delayed_in_transit,40,resolved,2026-05-14
+EXC-9014,CAR-07,JFK-BOS,Express,delayed_in_transit,36,resolved,2026-05-16
+EXC-9015,CAR-01,SFO-PDX,Ground,address_correction,6,resolved,2026-06-11

@@ -1,0 +1,22 @@
+carrier_id,carrier_name,month,on_time_pct,exception_rate_pct,cost_per_shipment_usd,claim_rate_pct,tracking_freshness_hrs
+CAR-01,Northbound Express,2026-04,96.4,1.8,8.42,0.7,3.1
+CAR-01,Northbound Express,2026-05,96.1,1.9,8.40,0.8,3.0
+CAR-01,Northbound Express,2026-06,95.9,2.0,8.45,0.9,3.2
+CAR-02,Pinecrest Logistics,2026-04,94.2,2.6,7.91,1.7,5.9
+CAR-02,Pinecrest Logistics,2026-05,93.5,2.9,7.95,1.8,6.1
+CAR-02,Pinecrest Logistics,2026-06,92.8,3.4,7.98,2.1,6.4
+CAR-03,Westwind Freight,2026-04,97.8,1.1,9.10,0.4,2.6
+CAR-03,Westwind Freight,2026-05,97.6,1.0,9.12,0.3,2.5
+CAR-03,Westwind Freight,2026-06,97.9,1.2,9.15,0.4,2.7
+CAR-04,Summit Parcel,2026-04,91.0,3.8,6.85,1.2,7.4
+CAR-04,Summit Parcel,2026-05,89.6,4.2,6.88,1.6,8.1
+CAR-04,Summit Parcel,2026-06,88.4,4.9,6.90,1.9,8.8
+CAR-05,Ridgeline Delivery,2026-04,95.0,2.2,7.40,0.6,4.0
+CAR-05,Ridgeline Delivery,2026-05,95.4,2.1,7.42,0.7,3.9
+CAR-05,Ridgeline Delivery,2026-06,95.8,2.0,7.39,0.6,3.8
+CAR-06,Cobalt Last Mile,2026-04,93.1,3.0,5.95,0.9,5.5
+CAR-06,Cobalt Last Mile,2026-05,93.8,2.7,6.02,0.8,5.2
+CAR-06,Cobalt Last Mile,2026-06,94.4,2.5,6.10,0.7,5.0
+CAR-07,Harborline Shipping,2026-04,96.7,1.6,8.78,0.5,3.4
+CAR-07,Harborline Shipping,2026-05,94.0,2.8,8.85,0.6,5.8
+CAR-07,Harborline Shipping,2026-06,96.2,1.7,8.80,0.5,3.5
